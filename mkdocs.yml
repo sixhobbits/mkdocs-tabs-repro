@@ -1,0 +1,15 @@
+site_name: Repro
+
+theme:
+  features:
+    - navigation.tabs
+  name: material
+
+nav:
+  - Home: 
+    - index.md
+  - About: 
+    - about/index.md
+
+plugins:
+  - info
